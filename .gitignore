@@ -1,0 +1,32 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Environment variables & sensitive config
+.env
+
+# Cloud Shell / Editor system directories
+.cache/
+.codeoss/
+.config/
+.docker/
+.gemini/
+.local/
+.npm/
+.vscode/
+._*
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+
+# Archives
+*.tar.gz
+
+# OS generated files
+.DS_Store
+Thumbs.db
