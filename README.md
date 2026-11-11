@@ -253,7 +253,14 @@ This section showcases the **Gen Ai Mod App** user interface, search functionali
 <img width="1366" height="768" alt="Website Footer and Weekly Newsletter" src="https://github.com/user-attachments/assets/4a95f14a-55b5-4671-b3e2-3500825bf673" />
 <img width="1366" height="768" alt="Website FAQ Page" src="https://github.com/user-attachments/assets/157ae479-efd0-4563-bf44-a754698f963a" />
 <img width="1366" height="768" alt="All Blogs Gallery Page" src="https://github.com/user-attachments/assets/f0e8ac56-57ff-4d74-a8d3-e6f5073d580b" />
-<img width="1366" height="768" alt="Blog Editor and AI Content Generation Toolbar" src="https://github.com/user-attachments/assets/ea1bccc4-4a2f-4a65-bd88-d5ab7bef1d11" />
+
+### Blog Editor and AI Content Generation
+
+<img width="1366" height="768" alt="Blog Editor and AI Content Generation Toolbar - 1" src="https://github.com/user-attachments/assets/48731993-21b2-4df4-af5e-587eabbe5540" />
+<img width="1366" height="768" alt="Blog Editor and AI Content Generation Toolbar - 2" src="https://github.com/user-attachments/assets/c5b530a6-0b2a-41c6-a418-8a88a2552068" />
+<img width="1366" height="768" alt="Blog Editor and AI Content Generation Toolbar - 3" src="https://github.com/user-attachments/assets/ea1bccc4-4a2f-4a65-bd88-d5ab7bef1d11" />
+<img width="1366" height="767" alt="Blog Editor and AI Content Generation Toolbar - 4" src="https://github.com/user-attachments/assets/ba483faf-bb33-4854-ab9d-0a7aab5a00b1" />
+<img width="1366" height="768" alt="Blog Editor and AI Content Generation Toolbar - 5" src="https://github.com/user-attachments/assets/539febdf-f49b-4959-9c99-8653a675c7f8" />
 <img width="2607" height="1536" alt="An image of a man gone fishing" src="https://github.com/user-attachments/assets/54429ab9-d162-49d1-8821-8165ffba15fb" />
 
 ### Project Source Code
