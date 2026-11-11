@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/44119e2f-ad16-4612-ac6c-6da97987a7cc
 - [Tech Stack](#tech-stack)
 - [Application Workflow](#application-workflow)
 - [Screenshots](#screenshots)
-- [Generative AI Capabilities & Integration](#generative-ai-capabilities-&-integration)
+- [Generative AI Capabilities & Integration](#generative-ai-capabilities--integration)
 - [AI-Assisted Development](#ai-assisted-development)
 - [Google Skills Challenge Lab Reference](#google-skills-challenge-lab-reference)
 - [Future Enhancements](#future-enhancements)
@@ -216,7 +216,67 @@ gen-ai-mod-app/
 
 This section showcases the **Gen Ai Mod App** user interface, search functionality, content editing, and Google Cloud configurations.
 
+### GCP Console Dashboard
 
+<img width="1366" height="768" alt="GCP Console Dashboard" src="https://github.com/user-attachments/assets/43a98ef1-5418-4c1b-9f32-49b249807d62" />
+
+### Cloud Shell Terminal
+
+<img width="1366" height="768" alt="Cloud Shell Terminal - 1" src="https://github.com/user-attachments/assets/03cd32df-ce7b-4d1e-b3f8-ab77e7c9cc48" />
+<img width="1366" height="768" alt="Cloud Shell Terminal - 2" src="https://github.com/user-attachments/assets/8a7f60de-6ad6-44ba-a67f-8bb2823a23f5" />
+<img width="1366" height="767" alt="Cloud Shell Config Editor (Nano)" src="https://github.com/user-attachments/assets/33c1b126-6f9c-442b-9712-1777979e5ffc" />
+<img width="1366" height="768" alt="Cloud Shell Terminal - 3" src="https://github.com/user-attachments/assets/1d6ae958-bfc9-4783-9948-f51e2c888582" />
+
+### Google Cloud AI Applications Dashboard
+
+<img width="1366" height="768" alt="AI Applications Dashboard - Apps List" src="https://github.com/user-attachments/assets/a0132d46-4a8d-4339-809c-d5b447fa377c" />
+<img width="1366" height="768" alt="Agent Search App Overview and Pipeline Configuration" src="https://github.com/user-attachments/assets/54a7dd87-3c10-4ec4-9e58-9d9c50286399" />
+<img width="1366" height="768" alt="Agent Search Data Store Ingestion and Documents - 1" src="https://github.com/user-attachments/assets/e432bc41-a7ac-43b9-86a1-706cb7e59fef" />
+<img width="1366" height="768" alt="Agent Search Data Store Ingestion and Documents - 2" src="https://github.com/user-attachments/assets/6f507cc7-50a2-45e3-ad97-32906c7f6823" />
+<img width="1366" height="768" alt="Agent Search Data Store Ingestion and Documents - 3" src="https://github.com/user-attachments/assets/484038dd-d93d-4d39-aace-35b2e7a3e7f5" />
+
+### Agent Search Preview & Query Testing
+
+<img width="1366" height="768" alt="Agent Search Preview and Query Testing - 1" src="https://github.com/user-attachments/assets/973e933b-feed-477a-9ebd-5ec419be98b3" />
+<img width="1366" height="768" alt="Agent Search Preview and Query Testing - 2" src="https://github.com/user-attachments/assets/aaad7cb4-f43a-43ed-91f4-44e3daccfcc9" />
+<img width="1366" height="768" alt="Agent Search Preview and Query Testing - 3" src="https://github.com/user-attachments/assets/7268167f-0965-4f46-a02a-f12bfb41f32d" />
+<img width="1366" height="768" alt="Agent Search Preview and Query Testing - 4" src="https://github.com/user-attachments/assets/a72fce56-a646-49b0-8d63-760ba97492cd" />
+
+### Modernized Website UI & Pages
+
+<img width="1366" height="768" alt="Website Home Page - Cymbal Investments" src="https://github.com/user-attachments/assets/810fefb5-220f-4359-808d-ae94d7948f72" />
+<img width="1366" height="768" alt="Website Section - Our Approach to Investing" src="https://github.com/user-attachments/assets/ac062ade-75f0-4279-ad6c-e918903d9093" />
+<img width="1366" height="768" alt="Website Section - Our Services" src="https://github.com/user-attachments/assets/a2cc0384-349b-431e-a2cd-4c9be46b1334" />
+<img width="1366" height="768" alt="Website Section - Our Products" src="https://github.com/user-attachments/assets/747d2937-4f56-455a-b624-883f854af8c9" />
+<img width="1366" height="768" alt="Website Section - Why Choose Us" src="https://github.com/user-attachments/assets/6ceddbd6-363a-4189-8a06-d66aeeb0c1d6" />
+<img width="1366" height="768" alt="Website Section - Partner With Us" src="https://github.com/user-attachments/assets/908e32b7-f310-48bb-a5b2-07f7bcfd61e1" />
+<img width="1366" height="768" alt="Website Footer and Weekly Newsletter" src="https://github.com/user-attachments/assets/4a95f14a-55b5-4671-b3e2-3500825bf673" />
+<img width="1366" height="768" alt="Website FAQ Page" src="https://github.com/user-attachments/assets/157ae479-efd0-4563-bf44-a754698f963a" />
+<img width="1366" height="768" alt="All Blogs Gallery Page" src="https://github.com/user-attachments/assets/f0e8ac56-57ff-4d74-a8d3-e6f5073d580b" />
+<img width="1366" height="768" alt="Blog Editor and AI Content Generation Toolbar" src="https://github.com/user-attachments/assets/ea1bccc4-4a2f-4a65-bd88-d5ab7bef1d11" />
+<img width="2607" height="1536" alt="An image of a man gone fishing" src="https://github.com/user-attachments/assets/54429ab9-d162-49d1-8821-8165ffba15fb" />
+
+### Project Source Code
+
+<img width="1366" height="768" alt="Project Configuration - config.toml" src="https://github.com/user-attachments/assets/7364f7b4-29ec-477f-af11-a9dae0c849a9" />
+<img width="1366" height="768" alt="FastAPI Main Entrypoint - main.py" src="https://github.com/user-attachments/assets/180d3b43-4448-460c-a62c-927a61fcafd4" />
+<img width="1366" height="768" alt="Backend Logic & UI Routes - main.py" src="https://github.com/user-attachments/assets/79a94a31-6b68-40b2-8f7e-8ca0825ee58b" />
+
+### Google Cloud Monitoring & Logging
+
+<img width="1366" height="768" alt="Cloud Monitoring Overview and Logs Dashboard" src="https://github.com/user-attachments/assets/7dedb4c3-6e18-450a-9c7a-a6f91818d380" />
+<img width="1366" height="768" alt="Cloud Monitoring - CPU and Memory Utilization Metrics" src="https://github.com/user-attachments/assets/074f7166-3751-4372-9260-2da6f3c54ed6" />
+<img width="1366" height="768" alt="Cloud Monitoring - Fleet and Zone Metrics" src="https://github.com/user-attachments/assets/91d184c1-23f6-4ee1-bd2d-660a7bd6c64a" />
+<img width="1366" height="768" alt="Google Cloud Logs Explorer" src="https://github.com/user-attachments/assets/b0b09e48-0b7e-46b2-a876-00ef52e9a229" />
+
+### Cloud Run Observability & Deployment Management
+
+<img width="1366" height="768" alt="Google Cloud Run Services Overview" src="https://github.com/user-attachments/assets/c1a2b505-bf61-4713-a0a4-5f1530074af2" />
+<img width="1366" height="768" alt="Cloud Run Observability - Request Metrics and Latencies" src="https://github.com/user-attachments/assets/d573da0e-de54-487a-91d8-ee489a55decd" />
+<img width="1366" height="768" alt="Cloud Run Observability - Container Instance and Resource Utilization" src="https://github.com/user-attachments/assets/199da542-a368-4cf0-a6db-685929979e03" />
+<img width="1366" height="768" alt="Cloud Run Observability - Network and Concurrency Metrics" src="https://github.com/user-attachments/assets/dba3852b-a42b-4cb8-b8a1-543cef4f8060" />
+<img width="1366" height="768" alt="Cloud Run Observability - Startup Latency and Health Checks" src="https://github.com/user-attachments/assets/d1544455-4e94-4726-8c7b-ddf0b7218a0b" />
+<img width="1366" height="768" alt="Cloud Run Service Logs" src="https://github.com/user-attachments/assets/70bca81c-197a-4dbd-abc4-48a476fbc9e4" />
 
 ---
 
